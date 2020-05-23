@@ -1,2 +1,2 @@
 # Math-Concepts
-Mathematics Topics
+Naive Bayes Classifier
